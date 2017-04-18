@@ -16,4 +16,5 @@ Esse repositório apresenta uma proposta de solução para a disposição de pis
   + [Teoria sobre problema do corte e empacotamento - pág. 24](http://wiki.icmc.usp.br/images/1/13/Aula2PM_mari.pdf)
   + [Algoritmos para Problemas de Corte de Guilhotina Bidimensional](https://www.ime.usp.br/~glauber/publicacoes/tese.pdf)
   + [O Problema de Corte de Guilhotina com Placas Variadas](https://www.ime.usp.br/~glauber/publicacoes/sbpo07.pdf)
+  + [Artigo demonstrando exemplo de aplicação na resolução do problema de guilhotina bidimensional](http://www.amzi.com/articles/papercutter.htm)
   + [CUTTING STOCK PROBLEM BASED ON THE LINEAR PROGRAMMING APPROACH - Referencial teórico, aplicações e algoritmos](http://ir.knust.edu.gh/bitstream/123456789/3915/1/PHILIP%20DEBRAH%20THESIS.pdf)
