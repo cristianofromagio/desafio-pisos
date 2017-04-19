@@ -31,9 +31,9 @@ Esse repositório apresenta uma proposta de solução para a disposição de pis
 - A área será dividida em quatro setores:
   - Área preenchida (piso posicionado): área preenchida inicia-se na coordenada 0x0, após isso, é igual ao tamanho de um piso informado
   - Remanescente horizontal: área imaginária projetada pela altura do piso posicionado
-  - Remanescente vertical: área imaginário projetada pela largura do piso posicionado
+  - Remanescente vertical: área imaginária projetada pela largura do piso posicionado
   - Remanescente oposto: no início, o remanescente oposto é igual ao tamanho da área informada a ser preenchida
-- Um alternativa de solução pode ser identificar uma coluna inteira de pisos posicionados, repetir seu padrão até o limite, e calcular o reaproveitamento das sobras que eventualmente poderão aparecer
+- Uma alternativa de solução pode ser identificar uma coluna inteira de pisos posicionados, repetir seu padrão até o limite, e calcular o reaproveitamento das sobras que eventualmente poderão aparecer
 - Ao utilizar a abordagem de setores é possível trabalhar com pisos de diversos tamanhos e maximizar o reaproveitamento de pedaços de sobras (mesmo que este não seja o escopo do desafio)
 - A definição dos pisos a serem utilizados podem ser armazenados em uma pilha, mas deverão ser organizados propriamente para a apresentação visual
   - A apresentação visual também serve de teste de confirmação de que o algoritmo conseguiu realizar os cálculos corretamente
