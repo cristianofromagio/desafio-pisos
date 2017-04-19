@@ -1,15 +1,90 @@
 html {
-  font-family: sans-serif;
-  line-height: 1.15;
-  -ms-text-size-adjust: 100%;
-  -webkit-text-size-adjust: 100%;
+    font-family: sans-serif;
+    line-height: 1.15;
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
 }
 
 body {
-  margin: 0;
+    background-color: #fff;
+    color: #444;
+    font-size: 16px;
+    line-height: 1.5;
+    padding: 42px;
+}
+
+hr {
+    background-color: #fff;
+    border: 1px solid #fff;
+    border-top: 1px solid #aaa;
+    margin: 2em 0;
+    clear: both;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-weight: bold;
+    line-height: 1;
+}
+
+h1:first-child,
+h2:first-child,
+h3:first-child,
+h4:first-child,
+h5:first-child,
+h6:first-child {
+    margin-top: 0;
 }
 
 h1 {
-  font-size: 2em;
-  margin: 0.67em 0;
+    font-size: 2em;
+    margin: .766em 0 .388em;
+}
+
+h2 {
+    font-size: 1.6em;
+    margin: .833em 0 .5em;
+}
+
+h3 {
+    font-size: 1.4em;
+    margin: 1em 0 .666em;
+}
+
+h4 {
+    font-size: 1.2em;
+    margin: 1.133em 0 .766em;
+}
+
+h5 {
+    font-size: 1.1em;
+    margin: 1.2em 0 .833em;
+}
+
+h6 {
+    font-size: 1em;
+    margin: 1.5em 0 1em;
+}
+
+/* Área */
+
+.Area {
+    background-color: gray;
+    border: 1px solid black;
+    display: flex;
+    flex-flow: row wrap;
+    width: 600px;
+}
+
+/* Piso */
+
+.Piso {
+    background-color: white;
+    border: 5px solid darkgray;
+    display: inline-block;
+/*    margin: 0 5px;*/
 }
